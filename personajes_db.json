@@ -1,0 +1,772 @@
+[
+  {
+    "nombre": "Jon Nieve",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Stark",
+      "vivo": "si",
+      "titulo": "Rey del Norte",
+      "lugar": "Winterfell",
+      "muerte": "resucitado"
+    }
+  },
+  {
+    "nombre": "Daenerys Targaryen",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Targaryen",
+      "vivo": "no",
+      "titulo": "Madre de Dragones",
+      "lugar": "Desembarco del Rey",
+      "muerte": "asesinada"
+    }
+  },
+  {
+    "nombre": "Tyrion Lannister",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Lannister",
+      "vivo": "si",
+      "titulo": "Mano de la Reina",
+      "lugar": "Rocadragón",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Cersei Lannister",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Lannister",
+      "vivo": "no",
+      "titulo": "Reina de los Siete Reinos",
+      "lugar": "Desembarco del Rey",
+      "muerte": "aplastada"
+    }
+  },
+  {
+    "nombre": "Sansa Stark",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Stark",
+      "vivo": "si",
+      "titulo": "Reina del Norte",
+      "lugar": "Winterfell",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Arya Stark",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Stark",
+      "vivo": "si",
+      "titulo": "No One",
+      "lugar": "Braavos",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Bran Stark",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Stark",
+      "vivo": "si",
+      "titulo": "Rey de los Siete Reinos",
+      "lugar": "Desembarco del Rey",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Jaime Lannister",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Lannister",
+      "vivo": "no",
+      "titulo": "Matarreyes",
+      "lugar": "Desembarco del Rey",
+      "muerte": "aplastado"
+    }
+  },
+  {
+    "nombre": "Theon Greyjoy",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Greyjoy",
+      "vivo": "no",
+      "titulo": "Príncipe de Invernalia",
+      "lugar": "Winterfell",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Yara Greyjoy",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Greyjoy",
+      "vivo": "si",
+      "titulo": "Reina de las Islas del Hierro",
+      "lugar": "Pyke",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Euron Greyjoy",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Greyjoy",
+      "vivo": "no",
+      "titulo": "Rey de las Islas del Hierro",
+      "lugar": "Mar Angosto",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Petyr Baelish",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Baelish",
+      "vivo": "no",
+      "titulo": "Lord Protector del Valle",
+      "lugar": "Winterfell",
+      "muerte": "degollado"
+    }
+  },
+  {
+    "nombre": "Varys",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Maestro de Susurros",
+      "lugar": "Desembarco del Rey",
+      "muerte": "quemado"
+    }
+  },
+  {
+    "nombre": "Samwell Tarly",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Tarly",
+      "vivo": "si",
+      "titulo": "Gran Maestre",
+      "lugar": "Ciudadela",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Jorah Mormont",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Mormont",
+      "vivo": "no",
+      "titulo": "Caballero",
+      "lugar": "Winterfell",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Brienne de Tarth",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Tarth",
+      "vivo": "si",
+      "titulo": "Lord Comandante de la Guardia Real",
+      "lugar": "Desembarco del Rey",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Sandor Clegane",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Clegane",
+      "vivo": "no",
+      "titulo": "Perro",
+      "lugar": "Desembarco del Rey",
+      "muerte": "caída"
+    }
+  },
+  {
+    "nombre": "Gregor Clegane",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Clegane",
+      "vivo": "no",
+      "titulo": "Montaña",
+      "lugar": "Desembarco del Rey",
+      "muerte": "quemado"
+    }
+  },
+  {
+    "nombre": "Bronn",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "si",
+      "titulo": "Lord de Altojardín",
+      "lugar": "Altojardín",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Podrick Payne",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Payne",
+      "vivo": "si",
+      "titulo": "Escudero",
+      "lugar": "Desembarco del Rey",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Davos Seaworth",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Seaworth",
+      "vivo": "si",
+      "titulo": "Mano del Rey",
+      "lugar": "Desembarco del Rey",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Melisandre",
+    "atributos": {
+      "género": "mujer",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Sacerdotisa Roja",
+      "lugar": "Winterfell",
+      "muerte": "suicidio"
+    }
+  },
+  {
+    "nombre": "Stannis Baratheon",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Baratheon",
+      "vivo": "no",
+      "titulo": "Rey de los Siete Reinos",
+      "lugar": "Invernalia",
+      "muerte": "ejecutado"
+    }
+  },
+  {
+    "nombre": "Renly Baratheon",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Baratheon",
+      "vivo": "no",
+      "titulo": "Rey de los Siete Reinos",
+      "lugar": "Paso del Rey",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Robert Baratheon",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Baratheon",
+      "vivo": "no",
+      "titulo": "Rey de los Siete Reinos",
+      "lugar": "Desembarco del Rey",
+      "muerte": "herido"
+    }
+  },
+  {
+    "nombre": "Margaery Tyrell",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Tyrell",
+      "vivo": "no",
+      "titulo": "Reina de los Siete Reinos",
+      "lugar": "Desembarco del Rey",
+      "muerte": "quemada"
+    }
+  },
+  {
+    "nombre": "Olenna Tyrell",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Tyrell",
+      "vivo": "no",
+      "titulo": "Reina de las Espinas",
+      "lugar": "Altojardín",
+      "muerte": "envenenada"
+    }
+  },
+  {
+    "nombre": "Loras Tyrell",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Tyrell",
+      "vivo": "no",
+      "titulo": "Caballero de las Flores",
+      "lugar": "Desembarco del Rey",
+      "muerte": "quemado"
+    }
+  },
+  {
+    "nombre": "Robb Stark",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Stark",
+      "vivo": "no",
+      "titulo": "Rey en el Norte",
+      "lugar": "Los Gemelos",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Catelyn Stark",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Stark",
+      "vivo": "no",
+      "titulo": "Lady de Invernalia",
+      "lugar": "Los Gemelos",
+      "muerte": "degollada"
+    }
+  },
+  {
+    "nombre": "Ned Stark",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Stark",
+      "vivo": "no",
+      "titulo": "Mano del Rey",
+      "lugar": "Desembarco del Rey",
+      "muerte": "decapitado"
+    }
+  },
+  {
+    "nombre": "Lyanna Mormont",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Mormont",
+      "vivo": "no",
+      "titulo": "Lady de Bear Island",
+      "lugar": "Winterfell",
+      "muerte": "asesinada"
+    }
+  },
+  {
+    "nombre": "Jeor Mormont",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Mormont",
+      "vivo": "no",
+      "titulo": "Lord Comandante de la Guardia",
+      "lugar": "Castle Black",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Tormund",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "si",
+      "titulo": "Líder de los Salvajes",
+      "lugar": "Muro",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Mance Rayder",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Rey-más-allá-del-Muro",
+      "lugar": "Castle Black",
+      "muerte": "quemado"
+    }
+  },
+  {
+    "nombre": "Gilly",
+    "atributos": {
+      "género": "mujer",
+      "casa": "ninguna",
+      "vivo": "si",
+      "titulo": "ninguno",
+      "lugar": "Ciudadela",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Missandei",
+    "atributos": {
+      "género": "mujer",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Traductora",
+      "lugar": "Desembarco del Rey",
+      "muerte": "decapitada"
+    }
+  },
+  {
+    "nombre": "Grey Worm",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "si",
+      "titulo": "Comandante de los Inmaculados",
+      "lugar": "Naath",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Oberyn Martell",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Martell",
+      "vivo": "no",
+      "titulo": "Príncipe de Dorne",
+      "lugar": "Desembarco del Rey",
+      "muerte": "aplastado"
+    }
+  },
+  {
+    "nombre": "Ellaria Sand",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Martell",
+      "vivo": "no",
+      "titulo": "ninguno",
+      "lugar": "Dorne",
+      "muerte": "encarcelada"
+    }
+  },
+  {
+    "nombre": "Tywin Lannister",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Lannister",
+      "vivo": "no",
+      "titulo": "Mano del Rey",
+      "lugar": "Desembarco del Rey",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Kevan Lannister",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Lannister",
+      "vivo": "no",
+      "titulo": "Mano del Rey",
+      "lugar": "Desembarco del Rey",
+      "muerte": "quemado"
+    }
+  },
+  {
+    "nombre": "Tommen Baratheon",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Baratheon",
+      "vivo": "no",
+      "titulo": "Rey de los Siete Reinos",
+      "lugar": "Desembarco del Rey",
+      "muerte": "suicidio"
+    }
+  },
+  {
+    "nombre": "Joffrey Baratheon",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Baratheon",
+      "vivo": "no",
+      "titulo": "Rey de los Siete Reinos",
+      "lugar": "Desembarco del Rey",
+      "muerte": "envenenado"
+    }
+  },
+  {
+    "nombre": "Myrcella Baratheon",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Baratheon",
+      "vivo": "no",
+      "titulo": "Princesa",
+      "lugar": "Dorne",
+      "muerte": "envenenada"
+    }
+  },
+  {
+    "nombre": "Hodor",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "ninguno",
+      "lugar": "Winterfell",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Meera Reed",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Reed",
+      "vivo": "si",
+      "titulo": "ninguno",
+      "lugar": "Atalaya de Aguasgrises",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Jojen Reed",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Reed",
+      "vivo": "no",
+      "titulo": "ninguno",
+      "lugar": "Atalaya de Aguasgrises",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Beric Dondarrion",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Dondarrion",
+      "vivo": "no",
+      "titulo": "Caballero",
+      "lugar": "Winterfell",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Thoros de Myr",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Sacerdote Rojo",
+      "lugar": "Winterfell",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Qyburn",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Mano de la Reina",
+      "lugar": "Desembarco del Rey",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Walder Frey",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Frey",
+      "vivo": "no",
+      "titulo": "Lord de Los Gemelos",
+      "lugar": "Los Gemelos",
+      "muerte": "degollado"
+    }
+  },
+  {
+    "nombre": "Ramsay Bolton",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Bolton",
+      "vivo": "no",
+      "titulo": "Lord de Winterfell",
+      "lugar": "Winterfell",
+      "muerte": "devorado"
+    }
+  },
+  {
+    "nombre": "Roose Bolton",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Bolton",
+      "vivo": "no",
+      "titulo": "Lord de Fuerte Terror",
+      "lugar": "Winterfell",
+      "muerte": "apuñalado"
+    }
+  },
+  {
+    "nombre": "Ygritte",
+    "atributos": {
+      "género": "mujer",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "ninguno",
+      "lugar": "Castle Black",
+      "muerte": "asesinada"
+    }
+  },
+  {
+    "nombre": "Shae",
+    "atributos": {
+      "género": "mujer",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "ninguno",
+      "lugar": "Desembarco del Rey",
+      "muerte": "estrangulada"
+    }
+  },
+  {
+    "nombre": "Syrio Forel",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Instructor de Esgrima",
+      "lugar": "Desembarco del Rey",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Gendry",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Baratheon",
+      "vivo": "si",
+      "titulo": "Lord de Bastión de Tormentas",
+      "lugar": "Desembarco del Rey",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Hot Pie",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "si",
+      "titulo": "ninguno",
+      "lugar": "Posada del Hombre Arrodillado",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Eddison Tollett",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Lord Comandante de la Guardia",
+      "lugar": "Winterfell",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Maester Aemon",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Targaryen",
+      "vivo": "no",
+      "titulo": "Maestre",
+      "lugar": "Castle Black",
+      "muerte": "natural"
+    }
+  },
+  {
+    "nombre": "Benjen Stark",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Stark",
+      "vivo": "no",
+      "titulo": "Primer Explorador",
+      "lugar": "Más allá del Muro",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Night King",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Rey de la Noche",
+      "lugar": "Más allá del Muro",
+      "muerte": "asesinado"
+    }
+  },
+  {
+    "nombre": "Khal Drogo",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Khal",
+      "lugar": "Mar Dothraki",
+      "muerte": "envenenado"
+    }
+  },
+  {
+    "nombre": "Talisa Stark",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Stark",
+      "vivo": "no",
+      "titulo": "Lady de Invernalia",
+      "lugar": "Los Gemelos",
+      "muerte": "apuñalada"
+    }
+  },
+  {
+    "nombre": "Robin Arryn",
+    "atributos": {
+      "género": "hombre",
+      "casa": "Arryn",
+      "vivo": "si",
+      "titulo": "Lord del Nido de Águilas",
+      "lugar": "Nido de Águilas",
+      "muerte": "ninguna"
+    }
+  },
+  {
+    "nombre": "Lysa Arryn",
+    "atributos": {
+      "género": "mujer",
+      "casa": "Arryn",
+      "vivo": "no",
+      "titulo": "Lady del Nido de Águilas",
+      "lugar": "Nido de Águilas",
+      "muerte": "empujada"
+    }
+  },
+  {
+    "nombre": "Janos Slynt",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Comandante de la Guardia",
+      "lugar": "Castle Black",
+      "muerte": "decapitado"
+    }
+  },
+  {
+    "nombre": "Alliser Thorne",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "Lord Comandante",
+      "lugar": "Castle Black",
+      "muerte": "ahorcado"
+    }
+  },
+  {
+    "nombre": "Olly",
+    "atributos": {
+      "género": "hombre",
+      "casa": "ninguna",
+      "vivo": "no",
+      "titulo": "ninguno",
+      "lugar": "Castle Black",
+      "muerte": "ahorcado"
+    }
+  }
+]
